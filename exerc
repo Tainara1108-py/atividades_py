@@ -1,0 +1,10 @@
+casa=input('digite sua nota')
+nota=25
+media_alta=15
+media_baixa=5
+
+if nota >= media_alta:
+    print('passou direto em fiot')
+else:
+    if nota<= media_baixa:
+     print('ta burrão em, fica ai de recuperação')
