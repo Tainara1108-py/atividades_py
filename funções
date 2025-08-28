@@ -1,0 +1,7 @@
+# def nome_da_funcao(parametros): colocar as  variaveis 
+#     return valor #opcional
+# para q o código seja executado tenho que colocar o nome da minha função\"from teste import(nome da variavel)"
+
+def write():
+    print('hello mund')
+write()
